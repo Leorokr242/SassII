@@ -1,0 +1,52 @@
+@import "./header";
+@import "./main";
+@import "./footer";
+@import "./historia--main";
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: titule;
+    src: url("../assets/Fonts/winterbeauty-Script.otf");
+}
+
+body {
+    background-color: whitesmoke;
+    height: auto;
+   
+
+}
+
+.grad {
+    background-image: linear-gradient(to right, red , yellow);
+}
+.tit { 
+    font-family: titule;
+    font-size: 2em;
+}
+
+.radio {
+    border-radius: 15px;
+}
+
+.back {
+    background-color: rgba(173, 164, 41, 0.444);
+}
+
+.bot {
+    perspective: 2500;
+    transition: 1s ease;
+}
+
+.bot:hover {
+    font-size: 1.5em;
+}
+
+#suti2venta {
+    background-color: bisque;
+}
+
