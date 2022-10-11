@@ -68,14 +68,15 @@ body {
 .tit {
   font-family: titule;
   font-size: 2em;
-  text-shadow: 5px 5px 5px rgba(51, 51, 51, 0.356); }
+  text-shadow: 5px 5px 5px rgba(51, 51, 51, 0.356);
+  color: #da0037; }
 
 .radio {
   border-radius: 15px;
   box-shadow: 10px 10px 10px rgba(51, 51, 51, 0.326); }
 
 .back {
-  background-color: rgba(173, 164, 41, 0.444); }
+  background-color: #30475e93; }
 
 .bot {
   perspective: 2500;
