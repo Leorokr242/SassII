@@ -1,12 +1,13 @@
 header {
-  margin: 15px 0 15px 0;
+  margin: 40px 0 0 0;
   height: auto; }
 
 main {
   height: auto; }
+  main section div div div img {
+    border-radius: 10px; }
   main section {
     height: auto;
-    margin-top: 15px;
     padding: 15px 0 0 0; }
     main section div article p {
       text-align: justify;
@@ -59,10 +60,12 @@ body {
 
 .tit {
   font-family: titule;
-  font-size: 2em; }
+  font-size: 2em;
+  text-shadow: 5px 5px 5px rgba(51, 51, 51, 0.356); }
 
 .radio {
-  border-radius: 15px; }
+  border-radius: 15px;
+  box-shadow: 10px 10px 10px rgba(51, 51, 51, 0.326); }
 
 .back {
   background-color: rgba(173, 164, 41, 0.444); }
@@ -75,4 +78,8 @@ body {
   font-size: 1.5em; }
 
 #suti2venta {
-  background-color: bisque; }
+  background-color: bisque;
+  margin: 40px 0 40px 0; }
+
+#articMonk {
+  margin-top: 40px; }
