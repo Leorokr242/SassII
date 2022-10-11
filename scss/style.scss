@@ -24,7 +24,7 @@ body {
 }
 
 .grad {
-    background-image: linear-gradient(to right, red , yellow);
+    background-image: linear-gradient(to right, $gradientes);
 }
 .tit { 
     font-family: titule;
@@ -58,3 +58,4 @@ body {
 #articMonk {
     margin-top: 40px;
 }
+

@@ -63,7 +63,7 @@ body {
   height: auto; }
 
 .grad {
-  background-image: linear-gradient(to right, red, yellow); }
+  background-image: linear-gradient(to right, #7f8c8d, #cedfed); }
 
 .tit {
   font-family: titule;
