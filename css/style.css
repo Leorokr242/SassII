@@ -59,7 +59,7 @@ footer {
   src: url("../assets/Fonts/winterbeauty-Script.otf"); }
 
 body {
-  background-color: whitesmoke;
+  background-color: #7f8c8d;
   height: auto; }
 
 .grad {
@@ -76,7 +76,7 @@ body {
   box-shadow: 10px 10px 10px rgba(51, 51, 51, 0.326); }
 
 .back {
-  background-color: #30475e93; }
+  background-color: #d5d8dc; }
 
 .bot {
   perspective: 2500;
@@ -86,7 +86,7 @@ body {
   font-size: 1.5em; }
 
 #suti2venta {
-  background-color: bisque;
+  background-color: #d5d8dc;
   margin: 40px 0 40px 0; }
 
 #articMonk {

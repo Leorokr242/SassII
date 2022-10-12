@@ -17,7 +17,7 @@
    }
 
 body {
-    background-color: whitesmoke;
+    background-color: map-get($colores, "body" );
     height: auto;
    
 
@@ -39,7 +39,8 @@ body {
 }
 
 .back {
-    background-color: map-get($colores, "fondoHeader" )
+    background-color: map-get($colores, "fondoHeader" );
+    
 }
 
 .bot {
@@ -52,7 +53,7 @@ body {
 }
 
 #suti2venta {
-    background-color: bisque;
+    background-color: map-get($colores, "fondoHeader" );
     margin: 40px 0 40px 0;
     
 }
