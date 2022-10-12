@@ -67,9 +67,9 @@ body {
   background-image: linear-gradient(to right, #7f8c8d, #cedfed); }
 
 .tit {
+  text-shadow: 5px 5px 5px rgba(51, 51, 51, 0.356);
   font-family: titule;
   font-size: 2em;
-  text-shadow: 5px 5px 5px rgba(51, 51, 51, 0.356);
   color: #da0037; }
 
 .radio {

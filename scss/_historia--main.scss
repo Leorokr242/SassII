@@ -13,11 +13,7 @@
 }
 
 #tituloHistoria{
-    margin: 40px 10px 10px 10px;
-    padding: 10px;
-    font-family: titule;
-    font-size: 4em;
-    text-align: center;
+    @include titulos
 }
 
 #imagen {
